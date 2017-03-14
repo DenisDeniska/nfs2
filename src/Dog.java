@@ -1,4 +1,4 @@
 
 public class Dog {
-	String name = "Dog";
+	String name = "Cat";
 }
